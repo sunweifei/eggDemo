@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "root",
+    "password": "123456",
+    "database": "egg_mysql",
+    "host": "127.0.0.1",
+    "port":3307,
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "root",
+    "password": "123456",
+    "database": "egg_mysql",
+    "host": "127.0.0.1",
+    "port":3307,
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "root",
+    "password": "123456",
+    "database": "egg_mysql",
+    "host": "127.0.0.1",
+    "port":3307,
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
